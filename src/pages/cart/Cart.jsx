@@ -35,8 +35,6 @@ function Cart() {
                     </button>
                     <button>Checkout</button>
                 </div>
-
-                <h1>Your Cart is Empty</h1>
             </div>
         </div>
     );
